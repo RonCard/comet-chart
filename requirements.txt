@@ -1,3 +1,2 @@
-comet-chart
 pandas==0.20.3
 bokeh==0.12.6
